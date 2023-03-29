@@ -1,0 +1,1 @@
+Kira will save all your conversations into this directory.
