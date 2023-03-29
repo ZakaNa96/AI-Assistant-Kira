@@ -10,7 +10,7 @@ from api_key import open_ai_api_key
 from context import system_message
 from pynput.keyboard import Key, Listener
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/home/mamen/PycharmProjects/AI Assistant Kira/google_credentials.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "google_credentials.json"
 prompts = []
 start_recording = False
 stop_recording = False
