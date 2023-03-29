@@ -6,8 +6,8 @@ Kira - A personal assistant powered with AI technology. Spoken user input is con
  - ctrl_r: Press while Kira is talking to interrupt her.
  
 ## Special Voice Commands
- - Quit: Say "quit" to exit the program.
- - Abort: Say "abort recording" anywhere in your recording to skip.
+ - Quit: Say "beenden" to exit the program.
+ - Abort: Say "aufnahme abbrechen" anywhere in your recording to skip.
 
 ## Setup
  - OpenAI: Write your openAI API key to api_key.py
